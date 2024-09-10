@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment03</string>
+    <string name="top_text">Find All</string>
+    <string name="reset_btn">Reset</string>
+</resources>
